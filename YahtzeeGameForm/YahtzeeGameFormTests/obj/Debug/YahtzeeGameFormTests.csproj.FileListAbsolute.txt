@@ -1,0 +1,17 @@
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\obj\Debug\YahtzeeGameFormTests.csprojAssemblyReference.cache
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\obj\Debug\YahtzeeGameFormTests.csproj.CoreCompileInputs.cache
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\YahtzeeGameFormTests.dll
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\YahtzeeGameFormTests.pdb
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\YahtzeeGameForm.exe
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\YahtzeeGameForm.pdb
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\YahtzeeGameForm.exe.config
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\obj\Debug\YahtzeeGameFormTests.csproj.CopyComplete
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\obj\Debug\YahtzeeGameFormTests.dll
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameFormTests\obj\Debug\YahtzeeGameFormTests.pdb

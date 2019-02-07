@@ -1,0 +1,10 @@
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameForm\obj\Debug\YahtzeeGameForm.csprojAssemblyReference.cache
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameForm\obj\Debug\YahtzeeGameForm.Form1.resources
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameForm\obj\Debug\YahtzeeGameForm.Properties.Resources.resources
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameForm\obj\Debug\YahtzeeGameForm.csproj.GenerateResource.cache
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameForm\obj\Debug\YahtzeeGameForm.csproj.CoreCompileInputs.cache
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameForm\bin\Debug\YahtzeeGameForm.exe.config
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameForm\bin\Debug\YahtzeeGameForm.exe
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameForm\bin\Debug\YahtzeeGameForm.pdb
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameForm\obj\Debug\YahtzeeGameForm.exe
+C:\Users\SGonz\Documents\GitHub\CIS297-Winter2019-SamPapiG\YahtzeeGameForm\YahtzeeGameForm\obj\Debug\YahtzeeGameForm.pdb
